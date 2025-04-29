@@ -7,7 +7,7 @@ image: [REGISTRY_USERNAME]/silverbullet
 # Deploy to these servers.
 servers:
   web:
-    - [SERVER_IP]
+    - [REMOTE_SERVER_IP]
   # job:
   #   hosts:
   #     - 192.168.0.1
@@ -21,7 +21,7 @@ proxy:
   app_port: 3000
   healthcheck:
     path: /.auth
-  host: [URL]
+  host: [HOST]
   ssl: true
   # Proxy connects to your container on port 80 by default.
 
