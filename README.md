@@ -1,1 +1,3 @@
-# silverbulletmd-kamal-template
+# Silverbullet Setup with kamal
+
+
