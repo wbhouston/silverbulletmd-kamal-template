@@ -1,0 +1,1 @@
+# silverbulletmd-kamal-template
